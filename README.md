@@ -3,7 +3,7 @@
 - 👀 I’m interested in p2p networking
 - 🌱 I’m currently learning rust
 
-Maintainer at [CardBoard](https://cardboard.ink)
+Maintainer @ [📦 CardBoard](https://cardboard.ink)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0SBA40)
 
