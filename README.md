@@ -5,6 +5,8 @@
 
 Maintainer @ [📦 CardBoard](https://cardboard.ink)
 
+[![An image of @sosweetham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sosweetham)](https://holopin.io/@sosweetham)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A0SBA40)
 
 <!---
