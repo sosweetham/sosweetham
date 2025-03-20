@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @sosweetham
 
-- 👀 I’m interested in p2p networking
+- 👀 I’m interested in decentralized systems 
 - 🌱 I’m currently learning rust
 
 Maintainer @ [📦 CardBoard](https://cardboard.ink)
