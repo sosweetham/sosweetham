@@ -1,9 +1,13 @@
 # 👋 Hi, I’m @sosweetham
-
-- 👀 I’m interested in decentralized systems 
+<div>
+<p align=left>
+  
+- 👀 I’m interested in decentralized systems
 - 🌱 I’m currently learning rust
-
-Maintainer @ [📦 CardBoard](https://cardboard.ink)
+  
+</p>
+<img align="right" height="128px" src="https://count.getloli.com/@:sosweetham?theme=miku" alt=":sosweetham" />  
+</div>
 
 [![An image of @sosweetham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sosweetham)](https://holopin.io/@sosweetham)
 
