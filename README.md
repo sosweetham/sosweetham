@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning rust
   
 </p>
-<img height="128px" src="https://count.getloli.com/@:sosweetham?theme=miku" alt=":sosweetham" />  
 </div>
 
 ![:sosweetham](https://count.getloli.com/@:sosweetham?theme=miku)
