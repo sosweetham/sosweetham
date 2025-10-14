@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning rust
   
 </p>
-<img align="right" height="128px" src="https://count.getloli.com/@:sosweetham?theme=miku" alt=":sosweetham" />  
+<img height="128px" src="https://count.getloli.com/@:sosweetham?theme=miku" alt=":sosweetham" />  
 </div>
 
 [![An image of @sosweetham's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sosweetham)](https://holopin.io/@sosweetham)
