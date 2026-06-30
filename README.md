@@ -2,7 +2,7 @@
 <div>
 <p align=left>
   
-- 👀 I’m interested in decentralized systems
+- 👀 I’m interested in indie dev & decentralized systems
 - 🌱 I’m currently learning rust
   
 </p>
